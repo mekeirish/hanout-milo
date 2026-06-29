@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Boutique de milo",
+    "currency": "DZD",
+    "showStock": true,
+    "ntfyTopic": "milo_commandes"
+  },
+  "categories": [
+    {
+      "id": 1,
+      "icon": "📁",
+      "name": "patisserie"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "millefeuille",
+      "price": 20,
+      "image": "",
+      "categoryId": 1,
+      "stock": 30
+    }
+  ]
+}
